@@ -1,1 +1,1 @@
-# end-to-end-classification-using-mlflow-and-dvc
+# end-to-end-image classification-using-mlflow-and-dvc
